@@ -1,0 +1,8 @@
+
+\begin{thenomenclature} 
+\nomgroup{A}
+  \item [{$\alpha$}]\begingroup Первая буква греческого алфавита\nomeqref {0}\nompageref{3}
+  \item [{$\beta$}]\begingroup Вторая буква греческого алфавита\nomeqref {0}\nompageref{3}
+  \item [{$\gamma $}]\begingroup Третья буква греческого алфавита\nomeqref {0}\nompageref{3}
+
+\end{thenomenclature}
