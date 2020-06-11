@@ -1,0 +1,5 @@
+SYSTEM;TOKENIZE;TAG;PARSE;;;
+spaCy;0.2ms;1ms;19ms;;;
+CoreNLP;0.18ms;10ms;49ms;;;
+ZPar;1ms;8ms;850ms;;;
+NLTK;4ms;443ms;n/a;;;

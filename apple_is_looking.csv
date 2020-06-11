@@ -1,0 +1,8 @@
+TEXT;LEMMA;POS;TAG;DEP;SHAPE;ALPHA;STOP
+Apple;apple;PROPN;NNP;nsubj;Xxxxx;True;False
+is;be;VERB;VBZ;aux;xx;True;True
+looking;look;VERB;VBG;ROOT;xxxx;True;False
+at;at;ADP;IN;prep;xx;True;True
+buying;buy;VERB;VBG;pcomp;xxxx;True;False
+U.K.;u.k.;PROPN;NNP;compound;X.X.;False;False
+startup;startup;NOUN;NN;dobj;xxxx;True;False
